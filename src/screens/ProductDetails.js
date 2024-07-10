@@ -53,7 +53,7 @@ export default function ProductDetails() {
             >
               <Image
                 style={{ width: 30, height: 30 }}
-                source={require("../../assets/Images/Do Not Bleach.png")}
+                source={require("../../assets/images/Do Not Bleach.png")}
               />
               <Text style={{ marginLeft: 10, fontSize: 16, color: "#5D5D5D" }}>
                 Do not use bleach
@@ -69,7 +69,7 @@ export default function ProductDetails() {
             >
               <Image
                 style={{ width: 30, height: 30 }}
-                source={require("../../assets/Images/Do Not Tumble Dry.png")}
+                source={require("../../assets/images/Do Not Tumble Dry.png")}
               />
               <Text style={{ marginLeft: 10, fontSize: 16, color: "#5D5D5D" }}>
                 Do not tumble dry
@@ -85,7 +85,7 @@ export default function ProductDetails() {
             >
               <Image
                 style={{ width: 30, height: 30 }}
-                source={require("../../assets/Images/Do Not Wash.png")}
+                source={require("../../assets/images/Do Not Wash.png")}
               />
               <Text style={{ marginLeft: 10, fontSize: 16, color: "#5D5D5D" }}>
                 Dry clean with tetrachloroethylene
@@ -101,7 +101,7 @@ export default function ProductDetails() {
             >
               <Image
                 style={{ width: 30, height: 30 }}
-                source={require("../../assets/Images/Iron Low Temperature.png")}
+                source={require("../../assets/images/Iron Low Temperature.png")}
               />
               <Text style={{ marginLeft: 10, fontSize: 16, color: "#5D5D5D" }}>
                 Iron at a maximum of 110oC/230oF
@@ -117,7 +117,7 @@ export default function ProductDetails() {
             ></View>
             <View style={{ justifyContent: "space-between", marginTop: 15 }}>
               <View style={{ flexDirection: "row" }}>
-                <Image source={require("../../assets/Images/Shipping.png")} />
+                <Image source={require("../../assets/images/Shipping.png")} />
                 <View>
                   <Text
                     style={{ marginLeft: 10, fontSize: 17, color: "#1E1E1E" }}
@@ -131,7 +131,7 @@ export default function ProductDetails() {
                   </Text>
                 </View>
                 <View style={{ marginLeft: 10 }}>
-                  <Image source={require("../../assets/Images/Up.png")} />
+                  <Image source={require("../../assets/images/Up.png")} />
                 </View>
               </View>
             </View>
