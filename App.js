@@ -2,12 +2,12 @@ import { NavigationContainer } from "@react-navigation/native";
 import "react-native-reanimated";
 import "react-native-gesture-handler";
 import { Pressable, Text, View } from "react-native";
-import HomeScreen from "./src/screens/HomeScreen";
-import CheckoutScreen from "./src/screens/CheckoutScreen";
 import { createDrawerNavigator } from "@react-navigation/drawer";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 import ProductDetails from "./src/screens/ProductDetails";
+import HomeScreen from "./src/screens/HomeScreen";
+import Checkout from "./src/screens/Checkout";
 
 export default function App() {
   const Drawer = createDrawerNavigator();
