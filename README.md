@@ -16,3 +16,22 @@ This project builds upon the previous assignment and incorporates additional fea
 - **Fetch Data**: Fetches product data from an external API using `fetch`.
 - **Asynchronous Operations**: Manages asynchronous operations with `async/await`.
 - **Local Storage**: Uses `AsyncStorage` to store selected items locally on the device.
+
+## Screenshots
+
+### Home Screen
+
+![Home Screen](./assets/screenshots/photo_2024-07-10_03-44-44.jpg)
+![Home Screen](./assets/screenshots/photo_2024-07-10_03-44-47.jpg)
+![Home Screen](./assets/screenshots/photo_2024-07-10_03-44-50.jpg)
+![Home Screen](./assets/screenshots/photo_2024-07-10_03-44-52.jpg)
+
+### Drawer
+
+![Drawer](./assets/screenshots/photo_2024-07-10_03-44-55.jpg)
+
+### Cart Screen
+
+![Cart Screen](./assets/screenshots/photo_2024-07-10_03-44-58.jpg)
+![Cart Screen](./assets/screenshots/photo_2024-07-10_03-45-01.jpg)
+![Cart Screen](./assets/screenshots/photo_2024-07-10_03-45-03.jpg)
