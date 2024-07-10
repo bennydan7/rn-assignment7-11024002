@@ -9,7 +9,7 @@ import {
 } from "react-native";
 import React, { useEffect } from "react";
 import { SafeAreaView } from "react-native-safe-area-context";
-import Images from "../constants/Images";
+import Images from "../components/Images";
 import { useNavigation, useFocusEffect } from "@react-navigation/native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
@@ -132,7 +132,7 @@ export default function HomeScreen() {
           <Image source={Images.Logo} />
           <View style={{ flexDirection: "row", gap: 15 }}>
             <Image source={Images.Search} />
-            <Pressable onPress={() => navigation.navigate("CheckoutScreen")}>
+            <Pressable onPress={() => navigation.navigate("Checkout")}>
               <Image
                 style={{
                   width: 24,
