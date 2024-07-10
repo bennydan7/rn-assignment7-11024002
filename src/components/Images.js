@@ -1,6 +1,6 @@
 const Images = {
   add_circle: require("../../assets/images/add_circle.png"),
-  ListView: require("../../assets/images/ListView.png"),
+  ListView: require("../../assets/images/Listview.png"),
   Logo: require("../../assets/images/Logo.png"),
   Menu: require("../../assets/images/Menu.png"),
   remove: require("../../assets/images/remove.png"),
@@ -8,3 +8,5 @@ const Images = {
   shoppingBag: require("../../assets/images/shoppingBag.png"),
   Filter: require("../../assets/images/Filter.png"),
 };
+
+export default Images;
